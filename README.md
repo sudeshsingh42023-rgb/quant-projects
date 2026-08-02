@@ -4,7 +4,7 @@
 
 ![RICE Prioritization](RICE_Table_GitHub.png)
 
-Full write-up: [Zomato_Product_Teardown_Case_Study.pdf](Zomato_Product_Teardown_Case_Study.pdf)
+Full write-up: [Zomato_Case_Study_OnePager.pdf](Zomato_Case_Study_OnePager.pdf)
 
 ---
 
