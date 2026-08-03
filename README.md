@@ -41,6 +41,6 @@ A weighted audit scorecard across 5 categories — Inventory Accuracy, Hygiene &
 Powai and Thane were flagged Critical primarily due to low Inventory Accuracy and Order Fulfillment SLA scores — the two most heavily weighted categories — suggesting a fulfillment process issue rather than a minor gap.
 
 ### Files
-- Scorecard: [Store_Operations_Audit_Framework_-_Audit_Scorecard.pdf](Store_Operations_Audit_Framework_-_Audit_Scorecard.pdf)
-- Dashboard: [Store_Operations_Audit_Framework_-_Dashboard.pdf](Store_Operations_Audit_Framework_-_Dashboard.pdf)
+- Scorecard: [Store_Operations_Audit_Framework_-_Audit_Scorecard.pdf](Store_Operations_Audit_Framework - Audit Scorecard.pdf)
+- Dashboard: [Store_Operations_Audit_Framework_-_Dashboard.pdf]()
 - Full workbook: [Store_Operations_Audit_Framework.xlsx](Store_Operations_Audit_Framework.xlsx)
