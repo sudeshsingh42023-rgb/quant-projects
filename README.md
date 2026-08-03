@@ -15,5 +15,6 @@ Full write-up: [Zomato_Case_Study_OnePager.pdf](Zomato_Case_Study_OnePager.pdf)
 
 A weighted audit scorecard (Inventory Accuracy, Hygiene, Order Fulfillment SLA, Staff SOP Compliance, Safety) applied across 6 stores, with automatic status flagging (Good / Needs Improvement / Critical) and a dashboard summarizing store-wise and category-wise performance.
 
-Full workbook: [Store_Operations_Audit_Framework.xlsx](Store_Operations_Audit_Framework.xlsx)
-Read-only view: [Store_Operations_Audit_Framework_Dashboard.pdf](Store_Operations_Audit_Framework_Dashboard.pdf)
+- Scorecard: [Store_Operations_Audit_Scorecard.pdf](Store_Operations_Audit_Scorecard.pdf)
+- Dashboard: [Store_Operations_Audit_Dashboard.pdf](Store_Operations_Audit_Dashboard.pdf)
+- Full workbook: [Store_Operations_Audit_Framework.xlsx](Store_Operations_Audit_Framework.xlsx)
