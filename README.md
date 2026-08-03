@@ -42,5 +42,5 @@ Powai and Thane were flagged Critical primarily due to low Inventory Accuracy an
 
 ### Files
 - Scorecard: [Store_Operations_Audit_Framework_-_Audit_Scorecard.pdf](Store_Operations_Audit_Framework - Audit Scorecard.pdf)
-- Dashboard: [Store_Operations_Audit_Framework_-_Dashboard.pdf]()
+- Dashboard: [Store_Operations_Audit_Framework - Dashboard.pdf](Store_Operations_Audit_Framework - Dashboard.pdf)
 - Full workbook: [Store_Operations_Audit_Framework.xlsx](Store_Operations_Audit_Framework.xlsx)
